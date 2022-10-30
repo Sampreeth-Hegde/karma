@@ -14,7 +14,7 @@ classifiers = [
 ]
 
 setup(
-  name='swas',
+  name='karma',
   version='1.8.3',
   description='A Progamming Language.',
   long_description=open('README.md').read(),
